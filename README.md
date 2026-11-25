@@ -1,6 +1,6 @@
 # Christmas Tree for your desktop
 
-A decorated Christmas tree that sits on your Windows desktop, with glowing lights, garland, presents, a countdown to Christmas, an optional dog and cat, and a little elf who turns up somewhere new each day.
+A decorated Christmas tree that sits on your Windows desktop, with glowing lights, garland, presents, a countdown to Christmas, a dog or a cat on each side if you like, and a little elf who turns up somewhere new each day.
 
 ![The tree on a desktop](tree.png)
 
@@ -27,7 +27,7 @@ The tree appears on your desktop, and a small tree icon appears near the clock i
 
 - Click the tree to turn the lights on or off.
 - Drag the tree to move it. Drag the gold corner to make it bigger or smaller.
-- Right-click the tree for everything else: tree type, light colour, bulb style and pattern, garland, toppers, a skirt or stand, presents, snow, the countdown, a dog or a cat, the wandering elf, and Settings.
+- Right-click the tree for everything else: tree type, light colour, bulb style, how many lights, the pattern, garland, toppers, a skirt or stand, presents, snow, the countdown, a dog or a cat on each side, the wandering elf, and Settings.
 - In Settings you can make it start when Windows starts, and set a bedtime when the lights turn off by themselves.
 
 ## Removing it
